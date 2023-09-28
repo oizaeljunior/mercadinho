@@ -1,0 +1,75 @@
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\mercadinho.exe.config
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\mercadinho.exe
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\mercadinho.pdb
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.csprojAssemblyReference.cache
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.Form1.resources
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.Form2.resources
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.Properties.Resources.resources
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.GenerateResource.cache
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.exe
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.pdb
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\MySql.Data.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\Google.Protobuf.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\ZstdNet.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\System.Buffers.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\bin\Debug\MySql.Data.xml
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.exe.config
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.Form3.resources
+C:\Users\izael.junior_uscsonl\source\repos\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CopyComplete
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\mercadinho.exe.config
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\mercadinho.exe
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\mercadinho.pdb
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\MySql.Data.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\Google.Protobuf.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\ZstdNet.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\System.Memory.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\System.Buffers.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\bin\Debug\MySql.Data.xml
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.AssemblyReference.cache
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.SuggestedBindingRedirects.cache
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.exe.config
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.Form1.resources
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.Form3.resources
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.Properties.Resources.resources
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.GenerateResource.cache
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CopyComplete
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.exe
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.pdb
+C:\Users\izael\OneDrive\Documentos\Trabalhos_facul\Projeto Integrado 3º\mercadinho\mercadinho\obj\Debug\mercadinho.Form4.resources
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\mercadinho.exe.config
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\mercadinho.exe
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\mercadinho.pdb
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\Google.Protobuf.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\ZstdNet.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\System.Memory.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\System.Buffers.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\bin\Debug\MySql.Data.xml
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.AssemblyReference.cache
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.exe.config
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.Form1.resources
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.Form3.resources
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.Form4.resources
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.Properties.Resources.resources
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.GenerateResource.cache
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CoreCompileInputs.cache
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.csproj.CopyComplete
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.exe
+C:\Users\izael.junior_uscsonl\Downloads\mercadinho\mercadinho\obj\Debug\mercadinho.pdb
